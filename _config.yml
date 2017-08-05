@@ -1,0 +1,8 @@
+# Site settings
+title: Helios
+url: https://zovfreullia.github.io/Helios-Jekyll/
+localhost: 4000
+
+# Build settings
+markdown: kramdown
+permalink: pretty
